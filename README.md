@@ -1,22 +1,22 @@
-# homebrew-hushtype
+# homebrew-vaultype
 
-Homebrew tap for [HushType](https://github.com/hushtype/HushType) — privacy-first speech-to-text for macOS.
+Homebrew tap for [VaulType](https://github.com/vaultype/VaulType) — privacy-first speech-to-text for macOS.
 
 ## Install
 
 ```bash
-brew tap hushtype/hushtype
-brew install --cask hushtype
+brew tap vaultype/vaultype
+brew install --cask vaultype
 ```
 
 ## Update
 
 ```bash
-brew upgrade --cask hushtype
+brew upgrade --cask vaultype
 ```
 
 ## Uninstall
 
 ```bash
-brew uninstall --cask hushtype
+brew uninstall --cask vaultype
 ```
