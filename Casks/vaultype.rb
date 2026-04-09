@@ -1,6 +1,6 @@
 cask "vaultype" do
-  version "1.1.2"
-  sha256 "92d8f92d006d4f5d761f805014d7c53c177b669fab7940e63b9a720e80e475d6"
+  version "1.1.3"
+  sha256 "7efd036ef7a850058ccfdd832394851cb7b621c1cc80f010b842223faf1bfc8c"
 
   url "https://github.com/vaultype/VaulType/releases/download/v#{version}/VaulType-#{version}.dmg"
   name "VaulType"
