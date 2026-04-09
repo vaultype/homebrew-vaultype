@@ -1,8 +1,8 @@
 cask "vaultype" do
-  version "1.1.3"
-  sha256 "7efd036ef7a850058ccfdd832394851cb7b621c1cc80f010b842223faf1bfc8c"
+  version "1.1.4"
+  sha256 "67293d57b331e933323674f0ea43610e3194a61ef553fab75d235bf4e653ee20"
 
-  url "https://github.com/vaultype/VaulType/releases/download/v#{version}/VaulType-#{version}.dmg"
+  url "https://github.com/vaultype/VaulType/releases/download/v#{version}/VaulType.dmg"
   name "VaulType"
   desc "Privacy-first speech-to-text for macOS — runs 100% locally"
   homepage "https://github.com/vaultype/VaulType"
